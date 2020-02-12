@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db8b7c18691559341b009ebdaf6cd487
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jointObject: {fileID: 1916215516751360, guid: 0b013ce5e6679524ea3cd5fd71aa11e6,
+      type: 2}
+  - boneObject: {fileID: 1100220317109628, guid: 8b04e1945f2a86c43bf41c86952010e0,
+      type: 2}
+  - muscleObject: {fileID: 1415390477535048, guid: 1eb6a1913f435b8409239ed54971bdff,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
