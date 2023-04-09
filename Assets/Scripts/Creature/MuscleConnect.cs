@@ -10,7 +10,7 @@ public class MuscleConnect : MonoBehaviour
   public float maxStrength, power;
 
   // The timer that moves the muscle each time
-  private float currentTimer, resetTimer = 0.5f;
+  private float currentTimer, resetTimer = 0.1f;
 
   public void SetBones(GameObject bone1, GameObject bone2)
   {

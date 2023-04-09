@@ -53,7 +53,6 @@ public class GeneticAlgorithm : MonoBehaviour
 
 
     // The hyperparameters
-    Random.InitState(1);
     mutateRate = 0.1f;
     populationSize = 50;
 
